@@ -1,0 +1,4 @@
+mv file
+cp file
+check permissions
+ls
